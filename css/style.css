@@ -95,6 +95,7 @@ body{
     position: relative;
     height: 2.8em;
     padding-right: 3.3em;
+    margin-bottom: 1.2rem;
 }
 
 .cssbuttons-io-button .icon {
@@ -128,6 +129,32 @@ body{
 
 .cssbuttons-io-button:active .icon {
     transform: scale(0.95);
+}
+hr{
+    margin-bottom: 1.2rem;
+}
+a{
+    text-decoration: none;
+}
+.contact_data{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.contact_link{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background: #045b7a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.contact_link i{
+    color: #e7e7e7;
+    font-size: 1.1rem;
 }
   
 
