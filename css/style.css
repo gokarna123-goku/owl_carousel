@@ -22,6 +22,7 @@ body{
     margin: 100px 10px;
     border-radius: 10px;
     background: #f0f0f0;
+    border: 1px solid #313131;
     /* box-shadow:  -1px 1px 10px #131313,
                  1px -1px 10px #4d4d4d; */
     overflow: hidden;
